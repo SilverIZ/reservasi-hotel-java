@@ -67,7 +67,6 @@ CREATE TABLE `reservasi` (
 --
 
 INSERT INTO `reservasi` (`id_pesanan`, `nama_pemesan`, `nik`, `checkin`, `lama_booking`, `jumlah_kamar`, `jenis_kamar`, `paket_menu`, `fasilitas`, `harga_kamar`, `tambahan`, `total_harga`) VALUES
-(26, 'siti farihatuz zuhriyah', '32000220002020', '2021-01-13', 4, 5, 'VIP', 'Breakfast Lunch Dinner', 'City View + Double Bed + Bathroom + AC + TV + Internet', 7500000, 120000, 37620000),
 (30, 'iskandar zulkarnaen', '3209271101010101', '2021-01-13', 5, 5, 'Deluxe ', 'Lunch Dinner', 'Double Bed + Bathroom + AC + TV + Internet', 600000, 90000, 3090000),
 (31, 'last stardust', '23556667', '2021-01-14', 4, 5, 'Reguler', 'Breakfast Lunch', 'Double Bed + Bathroom + AC', 500000, 85000, 2585000),
 (32, 'last stardust', '23556667', '2021-01-14', 4, 5, 'Reguler', 'Breakfast Lunch', 'Double Bed + Bathroom + AC', 500000, 85000, 2585000);
